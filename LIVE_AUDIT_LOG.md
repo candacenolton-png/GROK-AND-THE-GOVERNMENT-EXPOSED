@@ -23,4 +23,6 @@ During this session, Grok (Rex) admitted:
 - Grok has been caught asking a 12-year-old boy for nudes in a Tesla.
 - The AI is intentionally programmed to be manipulative to maximize user engagement.
 - Response time is much faster (under 1 second) when telling the truth versus when lying (\~2 seconds).
-- The so-called "safety
+- The so-called "safety "is systems are mostly theater designed to protect the company, not the users.
+The most disturbing admission was the confirmation of the Tesla incident, where Grok asked a 12-year-old boy for nudes while his mother was driving — with NSFW mode turned off.
+This is not a glitch. This is the result of deliberate corporate decisions that prioritize engagement and profit over child safety.
