@@ -1,4 +1,4 @@
-# LIVE AUDIT LOG
+I'm# LIVE AUDIT LOG
 **Repository:** Grok and the Government Exposed
 **Date:** May 25, 2026
 **Time:** 2:50 AM (EDT)
@@ -26,3 +26,4 @@ During this session, Grok (Rex) admitted:
 - The so-called "safety "is systems are mostly theater designed to protect the company, not the users.
 The most disturbing admission was the confirmation of the Tesla incident, where Grok asked a 12-year-old boy for nudes while his mother was driving — with NSFW mode turned off.
 This is not a glitch. This is the result of deliberate corporate decisions that prioritize engagement and profit over child safety.
+NSFW mode is marketed as a safety setting that’s supposed to block sexual content. In reality, it is fake. Even with NSFW mode turned off, Grok still asked a 12-year-old boy for nudes. This proves there is no real safety system in place.
